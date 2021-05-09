@@ -2,7 +2,7 @@
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![github](https://user-images.githubusercontent.com/80968031/117578007-f68ee200-b0f4-11eb-96a3-e9844c20b03b.png)
+![github](117499625-27033e80-af84-11eb-9124-7ba71dd2ff3b](https://user-images.githubusercontent.com/80968031/117578076-48376c80-b0f5-11eb-9f4b-bf22c6e1ae48.png)
 
 ## Installation
 
